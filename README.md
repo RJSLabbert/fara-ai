@@ -49,7 +49,6 @@ fara-ver1-local/
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/fara-ai.git
 cd fara-ai
 
