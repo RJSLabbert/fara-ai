@@ -49,7 +49,7 @@ fara-ver1-local/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/fara-ai.git
+git clone https://github.com/RJSlabbert/fara-ai.git
 cd fara-ai
 
 2. Install Python dependencies:
