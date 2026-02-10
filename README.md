@@ -19,7 +19,7 @@ Fully Autonomous Remote Artificial Intellignece
 
 ## **Project Structure**
 
-fara-ver1-local/ /n
+fara-ver1-local/
 ├─ backend/ # FastAPI backend files
 │ └─ main.py
 ├─ frontend/ # Frontend HTML, CSS, JS
