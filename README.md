@@ -1,6 +1,6 @@
 # FARA → Ryuu 竜 🐉
 
-**F.A.R.A** — Fully Autonomous Remote Artificial Intelligence → **Ryuu 竜** — Local AI Dragon
+**F.A.R.A**  Fully Autonomous Remote Artificial Intelligence → **Ryuu 竜** Local AI Dragon
 
 FARA is a fully local AI assistant running on your own machine — no cloud, no API costs, no external dependency. She uses **Ollama** as the language model backend, a **FastAPI** Python server, and a **browser-based frontend** for chat interaction.
 
@@ -17,7 +17,7 @@ FARA is the foundation. Ryuu is what she becomes.
 
 ## 🐉 Why I built this
 
-I wanted to build my own AI. Not use someone else's API, not pay for cloud tokens — actually build something that runs entirely on my own hardware. FARA was the proof of concept. She runs, she talks, she thinks locally. But she had no memory, no identity, no home.
+I wanted to build my own AI. Not use someone else's API, not pay for cloud tokens. Actually build something that runs entirely on my own hardware. FARA was the proof of concept. She runs, she talks, she thinks locally. But she had no memory, no identity, no home.
 
 Ryuu is the answer to that. A local AI dragon with an animated character, emotion states wired to the backend, and a Raspberry Pi 5 as his dedicated hardware home. Built from curiosity, stubbornness, and a YouTube video that changed everything.
 
@@ -26,7 +26,7 @@ Ryuu is the answer to that. A local AI dragon with an animated character, emotio
 ## ✨ Features
 
 ### 🖥️ Local AI Core
-- Runs entirely on your machine — no cloud required
+- Runs entirely on your machine, no cloud required
 - FastAPI backend connecting chat interface to Ollama
 - Works with Ollama CLI (`phi3:mini` model)
 
