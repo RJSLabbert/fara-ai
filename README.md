@@ -109,7 +109,7 @@ fara-ai/
 
 ## 👤 Author
 
-**RJS Labbert**
+**RJ SLabbert**
 
 - GitHub: [@RJSLabbert](https://github.com/RJSLabbert)
 - Blog: [rocksolidcode.co.za](https://rocksolidcode.co.za)
